@@ -1,5 +1,8 @@
 _repo: Sir-Gawain-and-the-Green-Knight-A-Middle-English-Arthurian-Romance-Retold-in-Modern-Prose-wit__66084
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66084-h/images/cover.jpg
 creator:
   author:
     agent_name: Weston, Jessie L. (Jessie Laidlay)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1384
     wikipedia: https://en.wikipedia.org/wiki/Jessie_Weston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66084#Sir-Gawain-and-the-Green-Knight-A-Middle-English-Arthurian-Romance-Retold-in-Modern-Prose-wit_
 gutenberg_issued: '2021-08-18'
 gutenberg_type: Text
 identifiers:
